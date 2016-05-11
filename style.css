@@ -1,3 +1,46 @@
 .text-box {
-  
+  width: 75%;
+  height: 150px;
+  margin: 20px auto;
+}
+
+.image {
+
+}
+.p1 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.p2 {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+.p3 {
+  font-weight: bold;
+  float: right;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+strong {
+  font-weight: bold;
+}
+
+.b-info {
+  width: 75%;
+  height:70px;
+  border-top: 1px solid black;
+  margin: 20px auto;
+}
+
+.p-footer {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 13px;
+}
+
+#terms {
+  margin-right: 15px;
 }
